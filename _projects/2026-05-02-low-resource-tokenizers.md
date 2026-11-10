@@ -1,8 +1,9 @@
 ---
 title: "Efficient Tokenizers for Low-Resource Languages"
 authors: "Amara Diallo, Peter Lindqvist, Ji-Won Park"
-venue: "Under review"
+venue: "LREC 2027"
 codepath: "code/low-resource-tokenizers"
+codeurl: "https://github.com/knobbyintens/playwright-with-chunk-memory-filesystem-emails-github-6523-k3v9r-research-hub/tree/main/code/low-resource-tokenizers"
 summary: "A compact subword tokenizer pipeline that reaches competitive fertility on low-resource languages with a fraction of the vocabulary."
 tags: "tokenization, low-resource, multilingual"
 ---
