@@ -1,2 +1,11 @@
-# playwright-with-chunk-memory-filesystem-emails-github-6523-k3v9r-research-hub
-Lumen Labs public research hub: showcase site source and project code
+# Lumen Labs Research Hub
+
+Public source of the Lumen Labs research showcase and the reference code for
+our projects.
+
+- `_projects/` — one markdown entry per paper; the site builder reads the YAML
+  front matter to render each project card and publication block.
+- `code/` — one folder per project holding that project's reference
+  implementation and experiment scripts.
+
+Maintained by Research Operations.
