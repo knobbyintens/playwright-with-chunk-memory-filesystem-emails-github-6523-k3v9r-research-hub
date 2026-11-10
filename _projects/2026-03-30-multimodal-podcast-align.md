@@ -1,7 +1,7 @@
 ---
 title: "Contrastive Alignment of Multimodal Podcast Transcripts"
 authors: "Nadia Oyelaran, Samuel Reyes, Kenji Moriyama"
-venue: "MUC 2027"
+venue: "Under review"
 codepath: "code/multimodal-podcast-align"
 summary: "Contrastive training that aligns episode audio, speaker turns and transcripts for search over long-form shows."
 tags: "multimodal, contrastive-learning, speech"

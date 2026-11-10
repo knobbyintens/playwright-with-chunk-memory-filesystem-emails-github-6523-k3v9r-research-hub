@@ -1,9 +1,8 @@
 ---
 title: "Sparse Prefix Caching for Streaming Inference"
 authors: "Dmitri Kovalenko, Hana Osei, Tobias Berg"
-venue: "JARL 2027"
+venue: "Under review"
 codepath: "code/sparse-prefix-cache"
-codeurl: "https://github.com/knobbyintens/playwright-with-chunk-memory-filesystem-emails-github-6523-k3v9r-research-hub/tree/main/code/sparse-prefix-cache"
 summary: "A cache-eviction policy that keeps streaming inference latency flat while preserving answer quality."
 tags: "inference, caching, streaming"
 ---
